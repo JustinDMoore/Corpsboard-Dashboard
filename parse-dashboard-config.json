@@ -1,9 +1,10 @@
 {
   "apps": [
     {
-      "serverURL": "https://corpsboard.herokuapp.com/parse", // For an app still hosted on Parse.com
+      "serverURL": "https://corpsboard.herokuapp.com/parse",
       "appId": "wx8eMIWy1f9e60WrQJYUI81jlk5g6YYAPPmwxequ",
-      "javascriptKey": "myJavascriptKey",
+      "masterKey": "ghQaWz8I6ufa4jd5ZEN3W6kTAOXMSBCt6r9k7gKt",
+      "javascriptKey": "cNHouQhB8L8qj2cHjOQlnpVWT0GtmMSUuQxIpouI",
       "restKey": "YObPCubp8TxWh88NfvXmMCC4NxQukef9gfmx2bO9",
       "appName": "Corpsboard",
       "production": true
@@ -12,7 +13,7 @@
   "users": [
     {
       "user":"admin@yea.org",
-      "pass":"admin@601hamilton" // change this to something secure
+      "pass":"admin@601hamilton"
     }
   ]
 }
