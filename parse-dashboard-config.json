@@ -7,7 +7,8 @@
       "javascriptKey": "cNHouQhB8L8qj2cHjOQlnpVWT0GtmMSUuQxIpouI",
       "restKey": "YObPCubp8TxWh88NfvXmMCC4NxQukef9gfmx2bO9",
       "appName": "Corpsboard",
-      "production": true
+      "production": true,
+      "iconName": "c.ico"
     }
   ],
   "users": [
@@ -19,5 +20,6 @@
       "user":"justin@yea.org",
       "pass":"Ju$tin!1"
     }
-  ]
+  ],
+  "iconsFolder": "icons"
 }
