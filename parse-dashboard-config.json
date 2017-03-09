@@ -1,0 +1,18 @@
+{
+  "apps": [
+    {
+      "serverURL": "https://corpsboard.herokuapp.com/parse", // For an app still hosted on Parse.com
+      "appId": "wx8eMIWy1f9e60WrQJYUI81jlk5g6YYAPPmwxequ",
+      "javascriptKey": "myJavascriptKey",
+      "restKey": "YObPCubp8TxWh88NfvXmMCC4NxQukef9gfmx2bO9",
+      "appName": "Corpsboard",
+      "production": true
+    }
+  ],
+  "users": [
+    {
+      "user":"admin@yea.org",
+      "pass":"admin@601hamilton" // change this to something secure
+    }
+  ]
+}
