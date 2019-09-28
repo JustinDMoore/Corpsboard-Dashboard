@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "serverURL": "https://corpsboard.herokuapp.com/parse",
+      "serverURL": "https://yea-server.herokuapp.com/parse",
       "appId": "wx8eMIWy1f9e60WrQJYUI81jlk5g6YYAPPmwxequ",
       "masterKey": "ghQaWz8I6ufa4jd5ZEN3W6kTAOXMSBCt6r9k7gKt",
       "javascriptKey": "cNHouQhB8L8qj2cHjOQlnpVWT0GtmMSUuQxIpouI",
